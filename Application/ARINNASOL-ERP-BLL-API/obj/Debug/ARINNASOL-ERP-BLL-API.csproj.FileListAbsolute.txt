@@ -169,3 +169,4 @@ C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\ARINNASOL-ERP
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\ARINNASOL-ERP-BLL-API\obj\Debug\ARINNASOL-ERP-BLL-API.csproj.CopyComplete
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\ARINNASOL-ERP-BLL-API\obj\Debug\ARINNASOL-ERP-BLL-API.dll
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\ARINNASOL-ERP-BLL-API\obj\Debug\ARINNASOL-ERP-BLL-API.pdb
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\ARINNASOL-ERP-BLL-API\obj\Debug\ARINNASOL-ERP-BLL-API.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\DEPD.Data.dll
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\DEPD.Data.pdb
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.csprojAssemblyReference.cache
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.dll
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.pdb
