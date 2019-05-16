@@ -41,13 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BLL\Department\Department.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="BLL\Entities\Department\DepartmentAbstract.cs" />
+    <Compile Include="BLL\Entity\IEntity.cs" />
+    <Compile Include="BLL\Entity\IEntityContainer.cs" />
+    <Compile Include="BLL\Entities\User\UserAbstract.cs" />
+    <Compile Include="DEPD\Data\Config\IRepository.cs" />
+    <Compile Include="DEPD\Data\Config\IRepositoryConnection.cs" />
+    <Compile Include="DEPD\Data\Config\IRepositoryProcedure.cs" />
+    <Compile Include="DEPD\Data\Config\IRepositryContainer.cs" />
+    <Compile Include="DEPD\Data\Entities\Department\IDepartmentRepository.cs" />
+    <Compile Include="DEPD\Data\Entities\User\IUserRepository.cs" />
+    <Compile Include="DEPD\Messaging\MessageController\IMessageControllerAbstract.cs" />
+    <Compile Include="DEPD\Messaging\Message\MessageAbstract.cs" />
+    <Compile Include="DEPD\Messaging\Sync\IRFMSync.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="BLL\User\" />
-    <Folder Include="DEPD\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

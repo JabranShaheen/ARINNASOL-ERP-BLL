@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstractions
+namespace Abstractions.DEPD.Data.Entities.Department
 {
-    public class Class1
+    class IDepartmentRepository
     {
     }
 }
