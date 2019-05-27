@@ -1,6 +1,15 @@
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\DEPD.Data.dll
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\DEPD.Data.pdb
-C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.csprojAssemblyReference.cache
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.csproj.CoreCompileInputs.cache
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.dll
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.pdb
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.csprojAssemblyReference.cache
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\Abstractions.dll
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\Unity.Abstractions.dll
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\Unity.Container.dll
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\Abstractions.pdb
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\bin\Debug\Unity.Container.pdb
+C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\DEPD.Data\obj\Debug\DEPD.Data.csproj.CopyComplete

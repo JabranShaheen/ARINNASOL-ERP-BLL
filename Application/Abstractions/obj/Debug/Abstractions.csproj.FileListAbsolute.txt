@@ -3,4 +3,3 @@ C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\Abstractions\
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\Abstractions\obj\Debug\Abstractions.csproj.CoreCompileInputs.cache
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\Abstractions\obj\Debug\Abstractions.dll
 C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\Abstractions\obj\Debug\Abstractions.pdb
-C:\Users\Jabra\Desktop\ArinnaSol\BLL\ARINNASOL-ERP-BLL\Application\Abstractions\obj\Debug\Abstractions.csprojAssemblyReference.cache
